@@ -105,4 +105,8 @@ dependencies {
     // region compose collectAsStateWithLifecycle
     implementation("androidx.lifecycle:lifecycle-runtime-compose:2.7.0")
     // endregion
+
+    // region palette
+    implementation("androidx.palette:palette-ktx:1.0.0")
+    // endregion
 }

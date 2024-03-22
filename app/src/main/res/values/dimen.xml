@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <dimen name="medium_padding">@dimen/_8sdp</dimen>
+    <dimen name="tab_indicator_size">@dimen/_4sdp</dimen>
+    <dimen name="large_padding">@dimen/_16sdp</dimen>
+    <dimen name="small_padding">@dimen/_4sdp</dimen>
+    <dimen name="progress_bar_size">@dimen/_40sdp</dimen>
+    <dimen name="circular_cover_size">@dimen/_40sdp</dimen>
 </resources>
